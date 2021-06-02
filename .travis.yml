@@ -15,7 +15,6 @@ notifications:
       - haroldadrian@gmail.com
     on_success: always
     on_failure: always
-    on_error: always
 deploy:
   provider: pages
   skip-cleanup: true
